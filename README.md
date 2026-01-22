@@ -10,8 +10,8 @@ Este projeto realiza o registro e a sincronização de visitas de colaboradores 
 
 <br>
 <div align="center">
-  <img src="docs\img\screen_mobile.gif" alt="Exemplo do aplicativo" height="370">
-  <img src="docs\img\screen_desktop.gif" alt="Exemplo desktop" height="370">
+  <img src="docs\img\screen_mobile.gif" alt="Exemplo do aplicativo" height="300">
+  <img src="docs\img\screen_desktop.gif" alt="Exemplo desktop" height="300">
 </div>
 
 ## Data de finalização e Certificado
