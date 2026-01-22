@@ -8,10 +8,10 @@ Este projeto realiza o registro e a sincronização de visitas de colaboradores 
   - Desktop (visualização e edição): consulta, filtra e atualiza a base de dados, com validações e sincronização com a lista do SharePoint e APIs dos sistemas.
   - Mobile (registro): registra visitas em campo e alimenta a base central, com suporte a modo offline e sincronização quando online.
 
-<br><br>
+<br>
 <div align="center">
-  <img src="docs\img\screen_mobile.gif" alt="Exemplo do aplicativo" height="350">
-  <img src="docs\img\screen_desktop.gif" alt="Exemplo desktop" height="350">
+  <img src="docs\img\screen_mobile.gif" alt="Exemplo do aplicativo" height="370">
+  <img src="docs\img\screen_desktop.gif" alt="Exemplo desktop" height="370">
 </div>
 <p align="center"><i>Exemplo do aplicativo (esquerda) e da lista (direita).</i></p>
 
