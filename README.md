@@ -1,12 +1,11 @@
-# Projeto de Registro de Visitas
+# Projeto de Cadastro de Dados
+Este projeto consiste no desenvolvimento de dois aplicativos em Power Apps, inspirados no curso de introdução aos aplicativos de tela da Microsoft, adaptados para o contexto interno. O objetivo é permitir o cadastro, visualização e edição de informações em uma base de dados central, com foco em simplicidade, organização e acessibilidade em diferentes dispositivos.
+Funcionamento
 
-Este projeto realiza o registro e a sincronização de visitas de colaboradores a partir de uma lista no SharePoint, integrando com dois sistemas via API para consolidar produtos, resultados e próximos passos. Foi desenvolvido a partir de um curso inicial da Microsoft voltado ao Databricks, adaptado para o contexto interno, com foco em automação, padronização e disponibilização de dados para análise.
+## Foram desenvolvidos dois aplicativos:
 
-## Funcionamento
-
-- Foram desenvolvidos dois aplicativos:
-  - Desktop (visualização e edição): consulta, filtra e atualiza a base de dados, com validações e sincronização com a lista do SharePoint e APIs dos sistemas.
-  - Mobile (registro): registra visitas em campo e alimenta a base central, com suporte a modo offline e sincronização quando online.
+- Desktop (visualização e edição): permite consultar, filtrar e atualizar os dados armazenados, funcionando como uma interface de acompanhamento e manutenção da base.
+- Mobile (cadastro): possibilita inserir novos registros diretamente pelo celular, facilitando o uso em situações de mobilidade e garantindo que a base seja alimentada de forma prática.
 
 <br>
 <div align="center">
